@@ -1,5 +1,5 @@
 {
-    "name": "arcturial/clickatell-v2",
+    "name": "bonlineza/clickatell",
     "type": "library",
     "description": "Standalone PHP library to integrate with the Clickatell SMS gateway",
     "homepage": "https://arcturial.github.com",
